@@ -9,8 +9,6 @@ The **Chemical Engineering Toolkit** is a Python-based program that provides two
 
 2. **Gas Release Rate Calculator**: Estimates gas flow rates based on user input for orifice diameter, source pressure, gas temperature, and discharge coefficient.
 
-![Liquid Spill Volume Calculator](spill.png) ![Gas Release Rate Calculator](burner.png)
-
 ## Features
 
 - Calculate the volume of a liquid spill in both cubic feet and gallons.
