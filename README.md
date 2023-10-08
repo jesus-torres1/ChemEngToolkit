@@ -15,7 +15,7 @@ The **Chemical Engineering Toolkit** is a Python-based program that provides two
 - Estimate gas flow rates for various engineering applications.
 - User-friendly graphical user interface (GUI) built with tkinter.
 - Calculations for common chemical engineering scenarios.
-- 
+  
 ## Getting Started
 
 ### Prerequisites
